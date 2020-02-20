@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="936f82cc-7bdf-4347-a189-a909ccb838a2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/bcy$headache.coverage" NAME="headache Coverage Results" MODIFIED="1581136522011" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bcy$bcy.coverage" NAME="bcy Coverage Results" MODIFIED="1581053054254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bcy$tt.coverage" NAME="tt Coverage Results" MODIFIED="1581136364423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Xv1RraLax8s8eZb4fWFZUfwHEu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.bcy">
+    <configuration name="bcy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bcy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="headache" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bcy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/headache.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bcy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.bcy" />
+        <item itemvalue="Python.headache" />
+        <item itemvalue="Python.tt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="936f82cc-7bdf-4347-a189-a909ccb838a2" name="Default Changelist" comment="" />
+      <created>1580990430667</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580990430667</updated>
+      <workItem from="1580990433453" duration="471000" />
+      <workItem from="1580991147710" duration="14394000" />
+      <workItem from="1581325178754" duration="522000" />
+      <workItem from="1581422693738" duration="71000" />
+      <workItem from="1581911750413" duration="3133000" />
+      <workItem from="1582175912046" duration="863000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1303" height="197" key="GridCell.Tab.0.bottom" timestamp="1582176640614">
+      <screen x="60" y="23" width="1380" height="877" />
+    </state>
+    <state width="1303" height="197" key="GridCell.Tab.0.bottom/60.23.1380.877@60.23.1380.877" timestamp="1582176640614" />
+    <state width="1303" height="198" key="GridCell.Tab.0.bottom/62.23.1378.877@62.23.1378.877" timestamp="1582010099327" />
+    <state width="1303" height="197" key="GridCell.Tab.0.center" timestamp="1582176640613">
+      <screen x="60" y="23" width="1380" height="877" />
+    </state>
+    <state width="1303" height="197" key="GridCell.Tab.0.center/60.23.1380.877@60.23.1380.877" timestamp="1582176640613" />
+    <state width="1303" height="198" key="GridCell.Tab.0.center/62.23.1378.877@62.23.1378.877" timestamp="1582010099324" />
+    <state width="1303" height="197" key="GridCell.Tab.0.left" timestamp="1582176640613">
+      <screen x="60" y="23" width="1380" height="877" />
+    </state>
+    <state width="1303" height="197" key="GridCell.Tab.0.left/60.23.1380.877@60.23.1380.877" timestamp="1582176640613" />
+    <state width="1303" height="198" key="GridCell.Tab.0.left/62.23.1378.877@62.23.1378.877" timestamp="1582010099324" />
+    <state width="1303" height="197" key="GridCell.Tab.0.right" timestamp="1582176640613">
+      <screen x="60" y="23" width="1380" height="877" />
+    </state>
+    <state width="1303" height="197" key="GridCell.Tab.0.right/60.23.1380.877@60.23.1380.877" timestamp="1582176640613" />
+    <state width="1303" height="198" key="GridCell.Tab.0.right/62.23.1378.877@62.23.1378.877" timestamp="1582010099326" />
+    <state x="246" y="129" key="SettingsEditor" timestamp="1581912333490">
+      <screen x="62" y="23" width="1378" height="877" />
+    </state>
+    <state x="246" y="129" key="SettingsEditor/62.23.1378.877@62.23.1378.877" timestamp="1581912333490" />
+    <state x="399" y="286" key="com.intellij.ide.util.TipDialog" timestamp="1582175912481">
+      <screen x="60" y="23" width="1380" height="877" />
+    </state>
+    <state x="399" y="286" key="com.intellij.ide.util.TipDialog/60.23.1380.877@60.23.1380.877" timestamp="1582175912481" />
+    <state x="409" y="208" width="670" height="676" key="search.everywhere.popup" timestamp="1582001712279">
+      <screen x="62" y="23" width="1378" height="877" />
+    </state>
+    <state x="409" y="208" width="670" height="676" key="search.everywhere.popup/62.23.1378.877@62.23.1378.877" timestamp="1582001712279" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/bcy$bcy.coverage" NAME="bcy Coverage Results" MODIFIED="1582176640599" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/bcy$headache.coverage" NAME="headache Coverage Results" MODIFIED="1582000835085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
